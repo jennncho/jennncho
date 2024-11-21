@@ -6,12 +6,19 @@
 
 <br>
 
+<h1 >About Me:</h1> 
 <p>
 I'm a Software Engineer with a background in data insights/analytics. I'm passionate about turning complex data into fun, actionable solutions. I thrive on creating beautiful, user-focused applications that are as efficient as they are effective. With experience across full stack development, I enjoy merging creativity and logic to craft seamless digital experiences.
 
 Wanna collaborate? <a href="https://www.jennychonyc.com/"> Contact Me </a> 🚀
 </p>
 
+<h1>Skills:</h1> 
+<p>
+  Typescript, Javascript, HTML, CSS, React.js, React Native, 
+  <br>
+  Next.js, Tailwind, Python, Node.js, PostgreSQL, Redux, MongoDB
+</p>
 
 <!--
 **jennncho/jennncho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
