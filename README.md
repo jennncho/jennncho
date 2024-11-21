@@ -1,7 +1,7 @@
-<div align="center">Hi there 👋 I'm Jenny! Welcome to my Github ✨ </div> 
+<h1 align="center" >Hi there - I'm Jenny! Welcome to my Github ✨ </h1> 
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzRuM2F2eXV6a2pzYmFmZmtkZXc0YXdqYTV4cjJleDhhczk0dTVrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11Wf3llSqbkgko/giphy.gif" alt="Beluga Hey" width="400">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhzb2RoN21zdTFhMmRueWJjd3M0Y3phcmo1MGJpZzhxdzViZzc1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FaKV1cVKlVRxC/giphy.gif" alt="Beluga Hey" width="500">
 </div>
 
 
